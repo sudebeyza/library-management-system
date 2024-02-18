@@ -1,0 +1,3 @@
+kardesimin hikayesi,livaneli,2003,300
+nutuk,ataturk,1927,658
+qqq,222,22,22
